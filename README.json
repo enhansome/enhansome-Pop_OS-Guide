@@ -374,7 +374,7 @@
             "last_commit": "2026-08-14T06:11:02Z",
             "owner": "keylase",
             "repo": "nvidia-patch",
-            "stars": 4766
+            "stars": 4767
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-29T09:50:07Z",
             "owner": "DistroAV",
             "repo": "DistroAV",
-            "stars": 4507
+            "stars": 4508
           }
         },
         {
@@ -402,7 +402,7 @@
             "last_commit": "2026-06-18T19:23:19Z",
             "owner": "obsproject",
             "repo": "obs-websocket",
-            "stars": 4335
+            "stars": 4336
           }
         },
         {
@@ -427,10 +427,10 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-13T18:18:57Z",
+            "last_commit": "2026-08-14T20:46:25Z",
             "owner": "WarmUpTill",
             "repo": "SceneSwitcher",
-            "stars": 1529
+            "stars": 1530
           }
         },
         {
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-14T17:33:26.203Z",
+    "last_updated": "2026-08-15T16:54:44.931Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
     "enhanced_repository": "enhansome/enhansome-Pop_OS-Guide",
