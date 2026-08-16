@@ -326,7 +326,7 @@
             "last_commit": "2026-08-06T17:10:32Z",
             "owner": "dimtpap",
             "repo": "obs-pipewire-audio-capture",
-            "stars": 787
+            "stars": 789
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-14T06:11:02Z",
             "owner": "keylase",
             "repo": "nvidia-patch",
-            "stars": 4767
+            "stars": 4769
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-29T09:50:07Z",
             "owner": "DistroAV",
             "repo": "DistroAV",
-            "stars": 4508
+            "stars": 4509
           }
         },
         {
@@ -416,7 +416,7 @@
             "last_commit": "2024-12-13T06:41:33Z",
             "owner": "Vhonowslend",
             "repo": "StreamFX-Public",
-            "stars": 4173
+            "stars": 4174
           }
         },
         {
@@ -430,7 +430,7 @@
             "last_commit": "2026-08-14T20:46:25Z",
             "owner": "WarmUpTill",
             "repo": "SceneSwitcher",
-            "stars": 1530
+            "stars": 1532
           }
         },
         {
@@ -528,7 +528,7 @@
             "last_commit": "2025-03-30T11:13:49Z",
             "owner": "fzwoch",
             "repo": "obs-gstreamer",
-            "stars": 403
+            "stars": 404
           }
         },
         {
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-15T16:54:44.931Z",
+    "last_updated": "2026-08-16T16:54:57.864Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
     "enhanced_repository": "enhansome/enhansome-Pop_OS-Guide",
