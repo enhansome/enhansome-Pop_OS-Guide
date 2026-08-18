@@ -326,7 +326,7 @@
             "last_commit": "2026-08-06T17:10:32Z",
             "owner": "dimtpap",
             "repo": "obs-pipewire-audio-capture",
-            "stars": 789
+            "stars": 788
           }
         },
         {
@@ -374,7 +374,7 @@
             "last_commit": "2026-08-17T06:10:56Z",
             "owner": "keylase",
             "repo": "nvidia-patch",
-            "stars": 4771
+            "stars": 4773
           }
         },
         {
@@ -388,7 +388,7 @@
             "last_commit": "2026-06-29T09:50:07Z",
             "owner": "DistroAV",
             "repo": "DistroAV",
-            "stars": 4509
+            "stars": 4507
           }
         },
         {
@@ -427,7 +427,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-08-17T16:48:03Z",
+            "last_commit": "2026-08-17T17:58:35Z",
             "owner": "WarmUpTill",
             "repo": "SceneSwitcher",
             "stars": 1533
@@ -458,7 +458,7 @@
             "last_commit": "2026-06-18T18:56:25Z",
             "owner": "obsproject",
             "repo": "obs-browser",
-            "stars": 898
+            "stars": 899
           }
         },
         {
@@ -553,7 +553,7 @@
           "repo_info": {
             "archived": false,
             "language": "C++",
-            "last_commit": "2026-06-17T06:40:41Z",
+            "last_commit": "2026-08-18T13:10:05Z",
             "owner": "exeldro",
             "repo": "obs-downstream-keyer",
             "stars": 159
@@ -1146,7 +1146,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-17T16:58:38.490Z",
+    "last_updated": "2026-08-18T17:00:38.106Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
     "enhanced_repository": "enhansome/enhansome-Pop_OS-Guide",
