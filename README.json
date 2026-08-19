@@ -308,7 +308,7 @@
                 "last_commit": "2026-08-06T17:10:32Z",
                 "owner": "dimtpap",
                 "repo": "obs-pipewire-audio-capture",
-                "stars": 788
+                "stars": 789
               }
             },
             {
@@ -355,7 +355,7 @@
                     "last_commit": "2026-08-17T06:10:56Z",
                     "owner": "keylase",
                     "repo": "nvidia-patch",
-                    "stars": 4774
+                    "stars": 4775
                   }
                 },
                 {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T12:15:14.095Z",
+    "last_updated": "2026-08-19T16:58:55.379Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_id": 336394036,
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
