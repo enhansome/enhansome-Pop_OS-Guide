@@ -370,7 +370,7 @@
                     "last_commit": "2026-06-29T09:50:07Z",
                     "owner": "DistroAV",
                     "repo": "DistroAV",
-                    "stars": 4507
+                    "stars": 4508
                   }
                 },
                 {
@@ -385,7 +385,7 @@
                     "last_commit": "2026-06-18T19:23:19Z",
                     "owner": "obsproject",
                     "repo": "obs-websocket",
-                    "stars": 4337
+                    "stars": 4338
                   }
                 },
                 {
@@ -412,10 +412,10 @@
                     "archived": false,
                     "id": 59211222,
                     "language": "C++",
-                    "last_commit": "2026-08-18T20:40:39Z",
+                    "last_commit": "2026-08-20T16:00:20Z",
                     "owner": "WarmUpTill",
                     "repo": "SceneSwitcher",
-                    "stars": 1533
+                    "stars": 1535
                   }
                 },
                 {
@@ -430,7 +430,7 @@
                     "last_commit": "2026-08-17T05:41:35Z",
                     "owner": "exeldro",
                     "repo": "obs-move-transition",
-                    "stars": 907
+                    "stars": 909
                   }
                 },
                 {
@@ -490,7 +490,7 @@
                     "last_commit": "2026-07-05T06:12:20Z",
                     "owner": "exeldro",
                     "repo": "obs-source-record",
-                    "stars": 620
+                    "stars": 621
                   }
                 },
                 {
@@ -550,7 +550,7 @@
                     "last_commit": "2026-08-18T13:10:05Z",
                     "owner": "exeldro",
                     "repo": "obs-downstream-keyer",
-                    "stars": 159
+                    "stars": 160
                   }
                 },
                 {
@@ -640,7 +640,7 @@
                     "last_commit": "2026-04-11T14:56:26Z",
                     "owner": "exeldro",
                     "repo": "obs-source-copy",
-                    "stars": 101
+                    "stars": 102
                   }
                 },
                 {
@@ -655,7 +655,7 @@
                     "last_commit": "2026-05-28T16:56:19Z",
                     "owner": "exeldro",
                     "repo": "obs-source-switcher",
-                    "stars": 101
+                    "stars": 102
                   }
                 },
                 {
@@ -685,7 +685,7 @@
                     "last_commit": "2026-04-11T07:59:18Z",
                     "owner": "exeldro",
                     "repo": "obs-scene-collection-manager",
-                    "stars": 81
+                    "stars": 82
                   }
                 },
                 {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T16:58:55.379Z",
+    "last_updated": "2026-08-20T17:04:02.906Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_id": 336394036,
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
