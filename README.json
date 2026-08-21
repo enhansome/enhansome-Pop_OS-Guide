@@ -355,7 +355,7 @@
                     "last_commit": "2026-08-17T06:10:56Z",
                     "owner": "keylase",
                     "repo": "nvidia-patch",
-                    "stars": 4775
+                    "stars": 4774
                   }
                 },
                 {
@@ -370,7 +370,7 @@
                     "last_commit": "2026-06-29T09:50:07Z",
                     "owner": "DistroAV",
                     "repo": "DistroAV",
-                    "stars": 4508
+                    "stars": 4509
                   }
                 },
                 {
@@ -385,7 +385,7 @@
                     "last_commit": "2026-06-18T19:23:19Z",
                     "owner": "obsproject",
                     "repo": "obs-websocket",
-                    "stars": 4338
+                    "stars": 4339
                   }
                 },
                 {
@@ -400,7 +400,7 @@
                     "last_commit": "2024-12-13T06:41:33Z",
                     "owner": "Vhonowslend",
                     "repo": "StreamFX-Public",
-                    "stars": 4175
+                    "stars": 4176
                   }
                 },
                 {
@@ -412,7 +412,7 @@
                     "archived": false,
                     "id": 59211222,
                     "language": "C++",
-                    "last_commit": "2026-08-20T16:00:20Z",
+                    "last_commit": "2026-08-20T19:36:19Z",
                     "owner": "WarmUpTill",
                     "repo": "SceneSwitcher",
                     "stars": 1535
@@ -430,7 +430,7 @@
                     "last_commit": "2026-08-17T05:41:35Z",
                     "owner": "exeldro",
                     "repo": "obs-move-transition",
-                    "stars": 909
+                    "stars": 910
                   }
                 },
                 {
@@ -442,7 +442,7 @@
                     "archived": false,
                     "id": 23367815,
                     "language": "C++",
-                    "last_commit": "2026-06-18T18:56:25Z",
+                    "last_commit": "2026-08-20T22:47:54Z",
                     "owner": "obsproject",
                     "repo": "obs-browser",
                     "stars": 899
@@ -490,7 +490,7 @@
                     "last_commit": "2026-07-05T06:12:20Z",
                     "owner": "exeldro",
                     "repo": "obs-source-record",
-                    "stars": 621
+                    "stars": 622
                   }
                 },
                 {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-20T17:04:02.906Z",
+    "last_updated": "2026-08-21T17:03:42.501Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_id": 336394036,
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
