@@ -355,7 +355,7 @@
                     "last_commit": "2026-08-17T06:10:56Z",
                     "owner": "keylase",
                     "repo": "nvidia-patch",
-                    "stars": 4775
+                    "stars": 4776
                   }
                 },
                 {
@@ -367,10 +367,10 @@
                     "archived": false,
                     "id": 71643008,
                     "language": "C++",
-                    "last_commit": "2026-06-29T09:50:07Z",
+                    "last_commit": "2026-08-23T14:09:10Z",
                     "owner": "DistroAV",
                     "repo": "DistroAV",
-                    "stars": 4510
+                    "stars": 4511
                   }
                 },
                 {
@@ -412,10 +412,10 @@
                     "archived": false,
                     "id": 59211222,
                     "language": "C++",
-                    "last_commit": "2026-08-22T10:34:05Z",
+                    "last_commit": "2026-08-23T16:51:56Z",
                     "owner": "WarmUpTill",
                     "repo": "SceneSwitcher",
-                    "stars": 1535
+                    "stars": 1538
                   }
                 },
                 {
@@ -942,7 +942,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-22T16:54:59.945Z",
+    "last_updated": "2026-08-23T16:56:01.600Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_id": 336394036,
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
