@@ -338,7 +338,7 @@
                 "last_commit": "2026-04-08T17:44:08Z",
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4250
+                "stars": 4252
               }
             },
             {
@@ -465,7 +465,7 @@
                     "last_commit": "2026-08-17T06:10:56Z",
                     "owner": "keylase",
                     "repo": "nvidia-patch",
-                    "stars": 4776
+                    "stars": 4777
                   }
                 },
                 {
@@ -540,7 +540,7 @@
                     "last_commit": "2026-08-17T05:41:35Z",
                     "owner": "exeldro",
                     "repo": "obs-move-transition",
-                    "stars": 910
+                    "stars": 911
                   }
                 },
                 {
@@ -740,6 +740,21 @@
                 },
                 {
                   "node_type": "item",
+                  "title": "Source Copy",
+                  "description": "plugin; adds copy and paste options to the tools menu.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 358893946,
+                    "language": "CMake",
+                    "last_commit": "2026-04-11T14:56:26Z",
+                    "owner": "exeldro",
+                    "repo": "obs-source-copy",
+                    "stars": 103
+                  }
+                },
+                {
+                  "node_type": "item",
                   "title": "Source Switcher",
                   "description": "plugin; to switch between a list of sources.",
                   "children": [],
@@ -751,21 +766,6 @@
                     "owner": "exeldro",
                     "repo": "obs-source-switcher",
                     "stars": 103
-                  }
-                },
-                {
-                  "node_type": "item",
-                  "title": "Source Copy",
-                  "description": "plugin; adds copy and paste options to the tools menu.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "id": 358893946,
-                    "language": "CMake",
-                    "last_commit": "2026-04-11T14:56:26Z",
-                    "owner": "exeldro",
-                    "repo": "obs-source-copy",
-                    "stars": 102
                   }
                 },
                 {
@@ -1014,10 +1014,10 @@
                 "archived": false,
                 "id": 125098880,
                 "language": "C++",
-                "last_commit": "2026-08-25T02:55:18Z",
+                "last_commit": "2026-08-25T16:54:34Z",
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 32646
+                "stars": 32649
               }
             },
             {
@@ -1088,7 +1088,7 @@
                 "archived": false,
                 "id": 208509888,
                 "language": "C++",
-                "last_commit": "2026-08-24T08:19:40Z",
+                "last_commit": "2026-08-25T12:48:36Z",
                 "owner": "dosbox-staging",
                 "repo": "dosbox-staging",
                 "stars": 1766
@@ -1121,7 +1121,7 @@
                 "last_commit": "2026-02-18T19:46:07Z",
                 "owner": "xenia-project",
                 "repo": "xenia",
-                "stars": 9643
+                "stars": 9646
               }
             }
           ],
@@ -1145,7 +1145,7 @@
                     "last_commit": "2026-08-07T07:14:32Z",
                     "owner": "NVIDIA",
                     "repo": "open-gpu-kernel-modules",
-                    "stars": 17314
+                    "stars": 17315
                   }
                 }
               ],
@@ -1216,10 +1216,10 @@
                     "archived": false,
                     "id": 236648333,
                     "language": "C",
-                    "last_commit": "2026-08-18T10:31:03Z",
+                    "last_commit": "2026-08-25T11:38:28Z",
                     "owner": "flightlessmango",
                     "repo": "MangoHud",
-                    "stars": 8974
+                    "stars": 8976
                   }
                 },
                 {
@@ -1231,10 +1231,10 @@
                     "archived": false,
                     "id": 485818631,
                     "language": "Pascal",
-                    "last_commit": "2026-08-24T02:39:08Z",
+                    "last_commit": "2026-08-25T15:46:00Z",
                     "owner": "benjamimgois",
                     "repo": "goverlay",
-                    "stars": 1451
+                    "stars": 1453
                   }
                 }
               ],
@@ -1367,7 +1367,7 @@
             "last_commit": "2026-08-01T20:26:52Z",
             "owner": "waydroid",
             "repo": "waydroid",
-            "stars": 12034
+            "stars": 12033
           }
         },
         {
@@ -1382,7 +1382,7 @@
             "last_commit": "2026-08-17T10:27:07Z",
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 148202
+            "stars": 148241
           }
         }
       ],
@@ -1421,7 +1421,7 @@
             "archived": false,
             "id": 286818960,
             "language": "Shell",
-            "last_commit": "2026-08-25T04:52:51Z",
+            "last_commit": "2026-08-25T16:22:58Z",
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50
@@ -1466,10 +1466,10 @@
             "archived": false,
             "id": 135516270,
             "language": "Go",
-            "last_commit": "2026-08-22T18:13:00Z",
+            "last_commit": "2026-08-25T10:55:13Z",
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 33809
+            "stars": 33815
           }
         }
       ],
@@ -1522,7 +1522,7 @@
                 "last_commit": "2024-07-31T23:10:28Z",
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34558
+                "stars": 34556
               }
             },
             {
@@ -1597,7 +1597,7 @@
                 "last_commit": "2026-08-25T06:02:21Z",
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11127
+                "stars": 11128
               }
             },
             {
@@ -1609,7 +1609,7 @@
                 "archived": false,
                 "id": 152616802,
                 "language": "Python",
-                "last_commit": "2026-08-25T00:45:05Z",
+                "last_commit": "2026-08-25T12:06:01Z",
                 "owner": "NVIDIA",
                 "repo": "cuml",
                 "stars": 5261
@@ -1670,7 +1670,7 @@
                 "last_commit": "2026-06-30T19:34:07Z",
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18418
+                "stars": 18421
               }
             },
             {
@@ -1700,7 +1700,7 @@
                 "last_commit": "2026-08-13T01:02:20Z",
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9602
+                "stars": 9606
               }
             },
             {
@@ -1712,7 +1712,7 @@
                 "archived": false,
                 "id": 28635894,
                 "language": "C++",
-                "last_commit": "2026-08-21T14:57:21Z",
+                "last_commit": "2026-08-25T16:26:10Z",
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3486
@@ -1727,10 +1727,10 @@
                 "archived": false,
                 "id": 108102826,
                 "language": "C++",
-                "last_commit": "2026-08-24T22:03:42Z",
+                "last_commit": "2026-08-25T16:59:55Z",
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14319
+                "stars": 14325
               }
             },
             {
@@ -1905,10 +1905,10 @@
                 "archived": false,
                 "id": 44087204,
                 "language": "Go",
-                "last_commit": "2026-08-24T14:12:26Z",
+                "last_commit": "2026-08-25T15:24:39Z",
                 "owner": "google",
                 "repo": "syzkaller",
-                "stars": 6307
+                "stars": 6308
               }
             },
             {
@@ -1938,7 +1938,7 @@
                 "last_commit": "2026-01-21T15:31:40Z",
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6558
+                "stars": 6557
               }
             },
             {
@@ -1983,7 +1983,7 @@
                 "last_commit": "2024-04-17T11:08:35Z",
                 "owner": "tink-crypto",
                 "repo": "tink",
-                "stars": 13539
+                "stars": 13538
               }
             }
           ],
@@ -2011,7 +2011,7 @@
                 "last_commit": "2026-08-24T09:58:36Z",
                 "owner": "OpenMined",
                 "repo": "PySyft",
-                "stars": 9956
+                "stars": 9957
               }
             },
             {
@@ -2038,7 +2038,7 @@
                 "archived": false,
                 "id": 161556784,
                 "language": "Python",
-                "last_commit": "2026-08-25T02:25:02Z",
+                "last_commit": "2026-08-25T16:56:47Z",
                 "owner": "google-parfait",
                 "repo": "tensorflow-federated",
                 "stars": 2448
@@ -2086,7 +2086,7 @@
                 "last_commit": "2026-08-24T20:53:29Z",
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24030
+                "stars": 24031
               }
             },
             {
@@ -2193,10 +2193,10 @@
                 "archived": false,
                 "id": 109145553,
                 "language": "Go",
-                "last_commit": "2026-08-24T19:07:37Z",
+                "last_commit": "2026-08-25T15:39:12Z",
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 32682
+                "stars": 32684
               }
             }
           ],
@@ -2236,10 +2236,10 @@
                 "archived": false,
                 "id": 184341774,
                 "language": "Rust",
-                "last_commit": "2026-08-24T20:56:12Z",
+                "last_commit": "2026-08-25T15:29:14Z",
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6140
+                "stars": 6144
               }
             },
             {
@@ -2251,10 +2251,10 @@
                 "archived": false,
                 "id": 135516270,
                 "language": "Go",
-                "last_commit": "2026-08-22T18:13:00Z",
+                "last_commit": "2026-08-25T10:55:13Z",
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 33809
+                "stars": 33815
               }
             },
             {
@@ -2281,7 +2281,7 @@
                 "archived": false,
                 "id": 286818960,
                 "language": "Shell",
-                "last_commit": "2026-08-25T04:52:51Z",
+                "last_commit": "2026-08-25T16:22:58Z",
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50
@@ -2389,7 +2389,7 @@
                 "last_commit": "2025-01-06T08:37:10Z",
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17087
+                "stars": 17088
               }
             },
             {
@@ -2401,7 +2401,7 @@
                 "archived": false,
                 "id": 1661758,
                 "language": "JavaScript",
-                "last_commit": "2026-08-24T13:12:20Z",
+                "last_commit": "2026-08-25T16:49:47Z",
                 "owner": "restify",
                 "repo": "node-restify",
                 "stars": 10685
@@ -2429,10 +2429,10 @@
                 "archived": false,
                 "id": 31792824,
                 "language": "Dart",
-                "last_commit": "2026-08-25T06:14:25Z",
+                "last_commit": "2026-08-25T16:31:29Z",
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 178644
+                "stars": 178649
               }
             }
           ],
@@ -2570,7 +2570,7 @@
                 "last_commit": "2026-02-28T16:30:21Z",
                 "owner": "microsoft",
                 "repo": "azuredatastudio",
-                "stars": 7685
+                "stars": 7686
               }
             }
           ],
@@ -2611,7 +2611,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:21:02.844Z",
+    "last_updated": "2026-08-25T17:08:12.505Z",
     "original_repository": "mikeroyal/Pop_OS-Guide",
     "original_repository_id": 336394036,
     "original_repository_sha": "ad7913d7f470d975f4bcdf911fe7c6d6cf3f3a64",
