@@ -21,70 +21,70 @@
 
 # Table of Contents
 
-1. [Getting Started](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-started) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+1. [Getting Started](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-started)
 
-2. [Getting Software](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-software) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+2. [Getting Software](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#getting-software)
 
-3. [Game Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#game-development) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+3. [Gaming](#gaming)
+   * [Linux Gaming Resources](#Linux-Gaming-Resources)
+   * [Game Controllers](#game-controllers)
+   * [Setting up OBS Studio](#Setting-up-OBS-Studio)
+     * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
+   * [Steam](#steam)
+   * [ProtonDB](#protondb)
+   * [Lutris](#lutris)
+     * [Epic Games Store integration](#Epic-Games-Store-integration)
+     * [Blizzard Battle.net integration](#Blizzard-Battlenet-integration)
+     * [EA Play integration](#EA-Play-integration)
+     * [Origin integration](#Origin-integration)
+     * [Ubisoft Connect integration](#Ubisoft-Connect-integration)
+     * [GOG Galaxy integration](#GOG-Galaxy-integration)
+   * [GameHub](#gamehub)
+   * [Epic Games Store](#epic-games-store)
+   * [Game Streaming](#game-streaming)
+   * [Game Emulators](#game-emulators)
+   * [Running Windows games with Bottles](#running-windows-games-with-bottles)
+   * [Hardware Performance(CPU, GPU, Gaming Peripherals)](h#hardware-performancecpu-gpu-gaming-peripherals)
+     * [NVIDIA](#NVIDIA)
+     * [AMD](#AMD)
+     * [Intel ARC](#Intel-Arc)
+     * [Gaming Peripherals](#Gaming-Peripherals)
+   * [Performance Benchmarks](#performance-benchmarks)
+   * [WINE](#wine)
 
-4. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+4. [Game Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#game-development)
 
-5. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+5. [Setting up a macOS workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-macos-workspace)
 
-6. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-and-android-apps-on-linux) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+6. [Setting up a Windows 10 workspace](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#setting-up-a-windows-10-workspace)
 
-7. [Professional Audio/Video Editing](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#professional-audio--video-editing) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+7. [Using Android and Android Apps on Linux](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#using-android-and-android-apps-on-linux)
 
-8. [Kubernetes](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#kubernetes) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+8. [Professional Audio/Video Editing](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#professional-audio--video-editing)
 
-9. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+9. [Kubernetes](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#kubernetes)
 
-10. [Robotics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#robotics) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+10. [Machine Learning](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#machine-learning)
 
-11. [Open Source Security](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#open-source-security) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+11. [Robotics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#robotics)
 
-12. [Differential Privacy](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#differential-privacy) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+12. [Open Source Security](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#open-source-security)
 
-13. [Cloud Native Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#cloud-native-development) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+13. [Differential Privacy](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#differential-privacy)
 
-14. [DevOps Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops-development) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+14. [Cloud Native Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#cloud-native-development)
 
-15. [Flutter Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#flutter-development) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+15. [DevOps Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#devops-development)
 
-16. [Networking](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#networking) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+16. [Flutter Development](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#flutter-development)
 
-17. [Databases](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#databases) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+17. [Networking](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#networking)
 
-18. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+18. [Databases](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#databases)
 
-19. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+19. [GNOME Extensions](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#gnome-extensions)
 
-20. [Gaming](#gaming)
-    * [Linux Gaming Resources](#Linux-Gaming-Resources)
-    * [Game Controllers](#game-controllers)
-    * [Setting up OBS Studio](#Setting-up-OBS-Studio)
-      * [Useful OBS Studio 3rd party Plugins & Themes](#useful-obs-studio-3rd-party-plugins-and-themes)
-    * [Steam](#steam)
-    * [ProtonDB](#protondb)
-    * [Lutris](#lutris)
-      * [Epic Games Store integration](#Epic-Games-Store-integration)
-      * [Blizzard Battle.net integration](#Blizzard-Battlenet-integration)
-      * [EA Play integration](#EA-Play-integration)
-      * [Origin integration](#Origin-integration)
-      * [Ubisoft Connect integration](#Ubisoft-Connect-integration)
-      * [GOG Galaxy integration](#GOG-Galaxy-integration)
-    * [GameHub](#gamehub)
-    * [Epic Games Store](#epic-games-store)
-    * [Game Streaming](#game-streaming)
-    * [Game Emulators](#game-emulators)
-    * [Running Windows games with Bottles](#running-windows-games-with-bottles)
-    * [Hardware Performance(CPU, GPU, Gaming Peripherals)](h#hardware-performancecpu-gpu-gaming-peripherals)
-      * [NVIDIA](#NVIDIA)
-      * [AMD](#AMD)
-      * [Intel ARC](#Intel-Arc)
-      * [Gaming Peripherals](#Gaming-Peripherals)
-    * [Performance Benchmarks](#performance-benchmarks)
-    * [WINE](#wine)
+20. [Advanced Topics](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#advanced-topics)
 
 # Awesome Getting Started with stars
 
@@ -151,7 +151,7 @@ sudo ufw status //checks status of firewall
 
 # Getting Software
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 ## Pop Shop
 
@@ -185,9 +185,9 @@ sudo ufw status //checks status of firewall
 
 [MATLAB Online](https://matlab.mathworks.com) allows to users to uilitize MATLAB and Simulink through a web browser such as Google Chrome.
 
-[Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,292 | 🐛 229 | 🌐 Vala | 📅 2026-09-21 for Linux is an application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS. Timeshift protects your system by taking incremental snapshots of the file system at regular intervals. These snapshots can be restored at a later date to undo all changes to the system.
+[Timeshift](https://github.com/linuxmint/timeshift) ⭐ 4,293 | 🐛 229 | 🌐 Vala | 📅 2026-09-21 for Linux is an application that provides functionality similar to the System Restore feature in Windows and the Time Machine tool in Mac OS. Timeshift protects your system by taking incremental snapshots of the file system at regular intervals. These snapshots can be restored at a later date to undo all changes to the system.
 
-[Stacer](https://github.com/oguzhaninan/Stacer) ⭐ 9,328 | 🐛 173 | 🌐 C++ | 📅 2024-02-10 is an open source system optimizer and application monitor that helps users to manage their entire system. Also available as an AppImage.
+[Stacer](https://github.com/oguzhaninan/Stacer) ⭐ 9,327 | 🐛 173 | 🌐 C++ | 📅 2024-02-10 is an open source system optimizer and application monitor that helps users to manage their entire system. Also available as an AppImage.
 
 [Nativefier](https://github.com/nativefier/nativefier) ⚠️ Archived is a command-line tool to easily create a desktop app for any web site with minimal configuration. Apps are wrapped by [Electron](https://www.electronjs.org/) (which uses Chromium under the hood) in an OS executable (.app, .exe, etc) for use on Windows, macOS and Linux.
 
@@ -312,14 +312,14 @@ Nintendo Switch Pro Controller
 
 ### Useful OBS Studio 3rd party plugins and themes.
 
-* **[NvFBC](https://gitlab.com/fzwoch/obs-nvfbc)** plugin; screen capture via NVIDIA FBC API. Requires [NvFBC patches for Nvidia drivers](https://github.com/keylase/nvidia-patch) ⭐ 4,805 | 🐛 21 | 🌐 Python | 📅 2026-09-24 for consumer grade GPUs.
+* **[NvFBC](https://gitlab.com/fzwoch/obs-nvfbc)** plugin; screen capture via NVIDIA FBC API. Requires [NvFBC patches for Nvidia drivers](https://github.com/keylase/nvidia-patch) ⭐ 4,806 | 🐛 21 | 🌐 Python | 📅 2026-09-24 for consumer grade GPUs.
 * **[NDI](https://github.com/Palakis/obs-ndi) ⭐ 4,546 | 🐛 65 | 🌐 C++ | 📅 2026-10-01** plugin; Network A/V via NewTek's NDI.
-* **[Websockets](https://github.com/Palakis/obs-websocket) ⭐ 4,357 | 🐛 158 | 🌐 C++ | 📅 2026-10-02** plugin; remote-control OBS Studio through WebSockets, compatible with [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote\&hl=en).
+* **[Websockets](https://github.com/Palakis/obs-websocket) ⭐ 4,358 | 🐛 156 | 🌐 C++ | 📅 2026-10-02** plugin; remote-control OBS Studio through WebSockets, compatible with [StreamControl](https://play.google.com/store/apps/details?id=dev.t4ils.obs_remote\&hl=en).
 * **[StreamFX](https://github.com/Xaymar/obs-StreamFX) ⭐ 4,196 | 🐛 0 | 🌐 C++ | 📅 2024-12-13** plugin; collection modern effects filters and transitions.
 * **[Advanced Scene Switcher](https://github.com/WarmUpTill/SceneSwitcher) ⭐ 1,567 | 🐛 93 | 🌐 C++ | 📅 2026-09-30** plugin; an automated scene switcher.
 * **[Move Transition](https://github.com/exeldro/obs-move-transition) ⭐ 921 | 🐛 118 | 🌐 C | 📅 2026-08-28** plugin; move source to a new position during scene transition.
-* **[Browser](https://github.com/obsproject/obs-browser) ⭐ 908 | 🐛 50 | 🌐 C++ | 📅 2026-09-11** plugin; CEF-based OBS Studio browser plugin.
-* **[Source Record](https://github.com/exeldro/obs-source-record) ⭐ 654 | 🐛 130 | 🌐 C | 📅 2026-07-05** plugin; make sources available to record via a filter.
+* **[Browser](https://github.com/obsproject/obs-browser) ⭐ 908 | 🐛 53 | 🌐 C++ | 📅 2026-09-11** plugin; CEF-based OBS Studio browser plugin.
+* **[Source Record](https://github.com/exeldro/obs-source-record) ⭐ 655 | 🐛 130 | 🌐 C | 📅 2026-07-05** plugin; make sources available to record via a filter.
 * **[Teleport](https://github.com/fzwoch/obs-teleport) ⭐ 644 | 🐛 1 | 🌐 Go | 📅 2026-09-21** plugin; open NDI-like replacement.
 * **[RTSPServer](https://github.com/iamscottxu/obs-rtspserver/) ⭐ 634 | 🐛 24 | 🌐 C++ | 📅 2024-01-12** plugin; encode and publish to a RTSP stream.
 * **[Spectralizer](https://github.com/univrsal/spectralizer) ⚠️ Archived** plugin; audio visualization using fftw.
@@ -357,9 +357,9 @@ Nintendo Switch Pro Controller
 
 [Steam Remote Play Together](https://store.steampowered.com/remoteplay/#together) is a steam service that let's you share your Steam local multi-player games with friends over the internet, for free. Using Remote Play Together, one player owns and runs the game, then up to four players can join.
 
-[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,965 | 🐛 5,210 | 🌐 C++ | 📅 2026-10-02 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
+[Proton](https://github.com/ValveSoftware/Proton/) ⭐ 32,966 | 🐛 5,210 | 🌐 C++ | 📅 2026-10-03 is a tool for use with the Steam client which allows games which are exclusive to Windows to run on the Linux operating system. It uses Wine to facilitate this.
 
-[ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,045 | 🐛 72 | 🌐 Python | 📅 2026-09-30 is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,122 | 🐛 104 | 🌐 C++ | 📅 2026-10-02 and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) ⚠️ Archived for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) ⚠️ Archived for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup) ⭐ 601 | 🐛 17 | 🌐 Python | 📅 2026-08-31, made with Python 3 and Qt 6.
+[ProtonUp-Qt](https://github.com/DavidoTek/ProtonUp-Qt) ⭐ 2,045 | 🐛 72 | 🌐 Python | 📅 2026-09-30 is a tool to install and manage [Proton-GE](https://github.com/GloriousEggroll/proton-ge-custom) ⭐ 15,123 | 🐛 103 | 🌐 C++ | 📅 2026-10-03 and [Luxtorpeda](https://github.com/luxtorpeda-dev/luxtorpeda) ⚠️ Archived for Steam and [Wine-GE](https://github.com/GloriousEggroll/wine-ge-custom) ⚠️ Archived for Lutris with this graphical user interface. Based on AUNaseef's [ProtonUp](https://github.com/AUNaseef/protonup) ⭐ 601 | 🐛 17 | 🌐 Python | 📅 2026-08-31, made with Python 3 and Qt 6.
 
 ## Enable Proton in Steam
 
@@ -546,9 +546,9 @@ Nintendo Switch Pro Controller
 
 [DOSBox](https://www.dosbox.com/) is an open-source DOS emulator which primarily focuses on running DOS Games.
 
-[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,800 | 🐛 206 | 🌐 C++ | 📅 2026-09-29 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
+[DOSBox Staging](https://github.com/dosbox-staging/dosbox-staging) ⭐ 1,801 | 🐛 208 | 🌐 C++ | 📅 2026-10-03 is a full x86 CPU emulator (independent of host architecture), capable of running DOS programs that require real or protected mode. [DOSBox Staging Flatpak](https://flathub.org/apps/details/io.github.dosbox-staging)
 
-[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,570 | 🐛 313 | 🌐 C++ | 📅 2026-10-01 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
+[Flycast](https://github.com/flyinghead/flycast) ⭐ 2,570 | 🐛 314 | 🌐 C++ | 📅 2026-10-03 is a multi-platform Sega Dreamcast, Naomi and Atomiswave emulator derived from reicast. [Flycast Flatpak](https://flathub.org/apps/details/org.flycast.Flycast)
 
 [DuckStation](https://www.duckstation.org/) is an simulator/emulator of the Sony PlayStation 1 console, focusing on playability, speed, and long-term maintainability. [Available as a Flatpak on Flathub](https://flathub.org/apps/details/org.duckstation.DuckStation).
 
@@ -600,7 +600,7 @@ Nintendo Switch Pro Controller
   <br />
 </p>
 
-* [NVIDIA Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules) ⭐ 17,436 | 🐛 562 | 🌐 C | 📅 2026-09-22
+* [NVIDIA Linux Open GPU Kernel Module Source](https://github.com/NVIDIA/open-gpu-kernel-modules) ⭐ 17,437 | 🐛 562 | 🌐 C | 📅 2026-09-22
 
 [GreenWithEnvy (GWE)](https://gitlab.com/leinardi/gwe) is a GTK system utility designed by Roberto Leinardi to provide information, control the fans and overclock your NVIDIA video card for better performance. Available as a [Flatpak on FlatHub](https://flathub.org/apps/details/com.leinardi.gwe).
 
@@ -738,7 +738,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 [MangoHud](https://github.com/flightlessmango/MangoHud) ⭐ 9,091 | 🐛 344 | 🌐 C | 📅 2026-09-30 is a Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 
-[GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,515 | 🐛 81 | 🌐 Pascal | 📅 2026-10-02 is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
+[GOverlay](https://github.com/benjamimgois/goverlay) ⭐ 1,516 | 🐛 82 | 🌐 Pascal | 📅 2026-10-02 is an open source project aimed to create a Graphical UI to manage Vulkan/OpenGL overlays. It is still in early development.
 
 ## Performance Benchmarks
 
@@ -760,11 +760,11 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 ### Winetricks
 
-[Winetricks](https://github.com/Winetricks/winetricks) ⭐ 3,542 | 🐛 190 | 🌐 Shell | 📅 2026-08-27 is an easy way to work around problems in Wine.
+[Winetricks](https://github.com/Winetricks/winetricks) ⭐ 3,543 | 🐛 190 | 🌐 Shell | 📅 2026-08-27 is an easy way to work around problems in Wine.
 
 # Game Development
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/97361059-45151700-185c-11eb-9d12-dae51c79eb8a.png">
@@ -837,7 +837,7 @@ Intel ARC GPUs Overview. Credit: [Intel](https://www.intel.com/content/www/us/en
 
 ## Augmented Reality (AR) & Virtual Reality (VR)
 
-[SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) ⭐ 1,111 | 🐛 466 | 🌐 Shell | 📅 2026-09-30 is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
+[SteamVR for Linux](https://github.com/ValveSoftware/SteamVR-for-Linux) ⭐ 1,112 | 🐛 467 | 🌐 Shell | 📅 2026-09-30 is the ultimate tool for experiencing VR content on the hardware of your choice. SteamVR supports the Valve Index, HTC Vive, Oculus Rift, Windows Mixed Reality headsets, and others.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/110880418-71718300-8293-11eb-986e-1b1f8cb49112.png">
@@ -885,7 +885,7 @@ SteamVR Home
 
 # Setting up a macOS workspace
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **REQUIREMENTS**
 
@@ -909,7 +909,7 @@ sudo apt install qemu uml-utilities virt-manager dmg2img git wget libguestfs-too
 
 # Setting up a Windows 10 workspace
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **REQUIREMENTS**
 
@@ -935,7 +935,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 
 # Using Android and Android Apps on Linux
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 [Android Studio](https://developer.android.com/studio/) is the development suite for Google's Android Operating System(OS). It's built on [JetBrains IntelliJ IDEA](https://www.jetbrains.com/idea/) software and designed specifically for Android development. It is available for download on Windows, macOS and Linux.
 
@@ -949,7 +949,7 @@ sudo apt install qemu uml-utilities virt-manager gnome-boxes
 <img src="https://user-images.githubusercontent.com/45159366/108637365-2c4df400-743f-11eb-8265-c07faab3523f.png">
 </p>
 
-[Waydroid](https://github.com/waydroid/waydroid) ⭐ 12,306 | 🐛 960 | 🌐 Python | 📅 2026-09-26 is a container-based approach to boot a full Android system on a regular Linux system. The Android runtime environment ships with a minimal customized Android system image based on LineageOS. The image is currently based on Android 10.
+[Waydroid](https://github.com/waydroid/waydroid) ⭐ 12,310 | 🐛 960 | 🌐 Python | 📅 2026-09-26 is a container-based approach to boot a full Android system on a regular Linux system. The Android runtime environment ships with a minimal customized Android system image based on LineageOS. The image is currently based on Android 10.
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/171924198-0d440de1-9ff7-4e37-b6c3-f7e42c266530.png">
@@ -985,7 +985,7 @@ Local virtual devices with high performances.
 <img src="https://user-images.githubusercontent.com/45159366/108637388-37a11f80-743f-11eb-9f37-6e22e1172f2d.png">
 </p>
 
-[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,879 | 🐛 2,914 | 🌐 C | 📅 2026-10-02 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
+[Scrcpy](https://github.com/Genymobile/scrcpy) ⭐ 150,896 | 🐛 2,913 | 🌐 C | 📅 2026-10-02 is an application by Genymotion that provides display and control of Android devices connected on USB (or over TCP/IP). It does not require any root access and works on GNU/Linux, Windows and macOS. The Android device requires at least API 21 (Android 5.0).
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108637389-396ae300-743f-11eb-971a-f5b554033552.jpg">
@@ -993,7 +993,7 @@ Local virtual devices with high performances.
 
 # Professional Audio & Video Editing
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/108773208-dba7cb00-7512-11eb-8fd0-2d009dbfc729.png">
@@ -1037,7 +1037,7 @@ Local virtual devices with high performances.
 
 [PipeWire](https://pipewire.org) is a server and user space API to deal with multimedia pipelines.It provides a low-latency, graph based processing engine on top of audio and video devices that can be used to support the use cases currently handled by both pulseaudio and JACK. PipeWire was designed with a powerful security model that makes interacting with audio and video devices from containerized applications easy. Nodes in the graph can be implemented as separate processes, communicating with sockets and exchanging multimedia content using fd passing.
 
-[Yabridge](https://github.com/robbert-vdh/yabridge) ⭐ 4,131 | 🐛 142 | 🌐 C++ | 📅 2026-08-02 is a modern and transparent way to use Windows VST2 and VST3 plugins on Linux. Yabridge seamlessly supports using both 32-bit and 64-bit Windows VST2 and VST3 plugins in a 64-bit Linux VST host as if they were native VST2 and VST3 plugins, with optional support for [plugin groups](https://github.com/robbert-vdh/yabridge#plugin-groups) ⭐ 4,131 | 🐛 142 | 🌐 C++ | 📅 2026-08-02 to enable inter-plugin communication for VST2 plugins and quick startup times.
+[Yabridge](https://github.com/robbert-vdh/yabridge) ⭐ 4,132 | 🐛 142 | 🌐 C++ | 📅 2026-08-02 is a modern and transparent way to use Windows VST2 and VST3 plugins on Linux. Yabridge seamlessly supports using both 32-bit and 64-bit Windows VST2 and VST3 plugins in a 64-bit Linux VST host as if they were native VST2 and VST3 plugins, with optional support for [plugin groups](https://github.com/robbert-vdh/yabridge#plugin-groups) ⭐ 4,132 | 🐛 142 | 🌐 C++ | 📅 2026-08-02 to enable inter-plugin communication for VST2 plugins and quick startup times.
 
 [Sonobus](https://sonobus.net) is an easy to use application for streaming high-quality, low-latency peer-to-peer audio between devices over the internet or a local network.
 
@@ -1053,7 +1053,7 @@ Local virtual devices with high performances.
 
 # Kubernetes
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
 <img src="https://user-images.githubusercontent.com/45159366/95383873-a884d800-08a0-11eb-8eaf-57af5b119f56.png">
@@ -1086,7 +1086,7 @@ Local virtual devices with high performances.
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 38 | 🌐 Shell | 📅 2026-10-02 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 42 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Thanos](https://thanos.io/) is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments.
 
@@ -1096,13 +1096,13 @@ Local virtual devices with high performances.
 
 [VMware Tanzu](https://tanzu.vmware.com/tanzu) is a centralized management platform for consistently operating and securing your Kubernetes infrastructure and modern applications across multiple teams and private/public clouds.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal.
 
 [KubeInit](https://github.com/kubeinit/kubeinit) ⭐ 224 | 🐛 5 | 🌐 Python | 📅 2025-12-05 provides Ansible playbooks and roles for the deployment and configuration of multiple Kubernetes distributions.
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,109 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Helm](https://helm.sh/) is a Kubernetes Package Manager tool that makes it easier to install and manage Kubernetes applications.
 
@@ -1184,7 +1184,7 @@ Local virtual devices with high performances.
 
 # Machine Learning
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <img src="https://user-images.githubusercontent.com/45159366/108111395-756e0480-7049-11eb-85ca-b87315e9d3ef.jpeg">
 
@@ -1256,11 +1256,11 @@ Local virtual devices with high performances.
 
 [Eclipse Deeplearning4J (DL4J)](https://deeplearning4j.konduit.ai/) is a set of projects intended to support all the needs of a JVM-based(Scala, Kotlin, Clojure, and Groovy) deep learning application. This means starting with the raw data, loading and preprocessing it from wherever and whatever format it is in to building and tuning a wide variety of simple and complex deep learning networks.
 
-[Numba](https://github.com/numba/numba) ⭐ 11,168 | 🐛 1,818 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
+[Numba](https://github.com/numba/numba) ⭐ 11,169 | 🐛 1,820 | 🌐 Python | 📅 2026-10-02 is an open source, NumPy-aware optimizing compiler for Python sponsored by Anaconda, Inc. It uses the LLVM compiler project to generate machine code from Python syntax. Numba can compile a large subset of numerically-focused Python, including many NumPy functions. Additionally, Numba has support for automatic parallelization of loops, generation of GPU-accelerated code, and creation of ufuncs and C callbacks.
 
 [Chainer](https://chainer.org/) is a Python-based deep learning framework aiming at flexibility. It provides automatic differentiation APIs based on the define-by-run approach (dynamic computational graphs) as well as object-oriented high-level APIs to build and train neural networks. It also supports CUDA/cuDNN using [CuPy](https://github.com/cupy/cupy) ⭐ 12,351 | 🐛 686 | 🌐 Python | 📅 2026-10-02 for high performance training and inference.
 
-[cuML](https://github.com/rapidsai/cuml) ⭐ 5,295 | 🐛 808 | 🌐 Python | 📅 2026-10-02 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
+[cuML](https://github.com/rapidsai/cuml) ⭐ 5,296 | 🐛 808 | 🌐 Python | 📅 2026-10-03 is a suite of libraries that implement machine learning algorithms and mathematical primitives functions that share compatible APIs with other RAPIDS projects. cuML enables data scientists, researchers, and software engineers to run traditional tabular ML tasks on GPUs without going into the details of CUDA programming. In most cases, cuML's Python API matches the API from scikit-learn.
 
 ## Online ML Learning Resources
 
@@ -1274,7 +1274,7 @@ Local virtual devices with high performances.
 
 # Robotics
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352533-b55fb380-1078-11eb-874c-f165cbcce899.png">
@@ -1306,17 +1306,17 @@ commercially available industrial robot models that you can import, visualize, a
 
 [ArduPilot](https://ardupilot.org/ardupilot/index.html) enables the creation and use of trusted, autonomous, unmanned vehicle systems for the peaceful benefit of all. ArduPilot provides a comprehensive suite of tools suitable for almost any vehicle and application.
 
-[AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,530 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
+[AirSim](https://github.com/Microsoft/AirSim) ⭐ 18,531 | 🐛 781 | 🌐 C++ | 📅 2026-09-15 is a simulator for drones, cars and more, built on Unreal Engine (we now also have an experimental Unity release). It is open-source, cross platform, and supports hardware-in-loop with popular flight controllers such as PX4 for physically and visually realistic simulations.
 
-[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,807 | 🐛 429 | 🌐 C++ | 📅 2026-10-01 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
+[F´ (F Prime)](https://github.com/nasa/fprime) ⭐ 11,807 | 🐛 429 | 🌐 C++ | 📅 2026-10-03 is a component-driven framework that enables rapid development and deployment of spaceflight and other embedded software applications. Originally developed at the Jet Propulsion Laboratory, F´ has been successfully deployed on several space applications.
 
 [The JPL Open Source Rover](https://github.com/nasa-jpl/open-source-rover) ⭐ 9,677 | 🐛 16 | 🌐 HTML | 📅 2026-09-03 is an open source, build it yourself, scaled down version of the 6 wheel rover design that JPL uses to explore the surface of Mars. The Open Source Rover is designed almost entirely out of consumer off the shelf (COTS) parts. This project is intended to be a teaching and learning experience for those who want to get involved in mechanical engineering, software, electronics, or robotics.
 
 [Light Detection and Ranging(LiDAR)](https://en.wikipedia.org/wiki/Lidar) is a remote sensing method that uses light in the form of a pulsed laser at an object, and uses the time and wavelength of the reflected beam of light to estimate the distance and in some applications ([Laser Imaging](https://en.wikipedia.org/wiki/Laser_scanning)), to create a 3D representation of the object and its surface characteristics. This technology is commonly used in aircraft and self-driving vehicles.
 
-[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,508 | 🐛 44 | 🌐 C++ | 📅 2026-10-02 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
+[AliceVision](https://github.com/alicevision/AliceVision) ⭐ 3,508 | 🐛 45 | 🌐 C++ | 📅 2026-10-02 is a Photogrammetric Computer Vision Framework which provides a 3D Reconstruction and Camera Tracking algorithms. AliceVision aims to provide strong software basis with state-of-the-art computer vision algorithms that can be tested, analyzed and reused. The project is a result of collaboration between academia and industry to provide cutting-edge algorithms with the robustness and the quality required for production usage.
 
-[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,452 | 🐛 1,191 | 🌐 C++ | 📅 2026-10-02 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
+[CARLA](https://github.com/carla-simulator/carla) ⭐ 14,453 | 🐛 1,192 | 🌐 C++ | 📅 2026-10-03 is an open-source simulator for autonomous driving research. CARLA has been developed from the ground up to support development, training, and validation of autonomous driving systems. In addition to open-source code and protocols, CARLA provides open digital assets (urban layouts, buildings, vehicles) that were created for this purpose and can be used freely. The simulation platform supports flexible specification of sensor suites and environmental conditions.
 
 [ROS bridge](https://github.com/carla-simulator/ros-bridge) ⭐ 646 | 🐛 186 | 🌐 Python | 📅 2026-08-16 is a package to bridge ROS for CARLA Simulator.
 
@@ -1364,7 +1364,7 @@ commercially available industrial robot models that you can import, visualize, a
 
 # Open Source Security
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352529-af69d280-1078-11eb-9e87-8a73f48af246.png">
@@ -1405,7 +1405,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [AppArmor](https://www.apparmor.net/) is an effective and easy-to-use Linux application security system. AppArmor proactively protects the operating system and applications from external or internal threats, even zero-day attacks, by enforcing good behavior and preventing both known and unknown application flaws from being exploited. AppArmor supplements the traditional Unix discretionary access control (DAC) model by providing mandatory access control (MAC). It has been included in the mainline Linux kernel since version 2.6.36 and its development has been supported by Canonical since 2009.
 
-[SELinux](https://github.com/SELinuxProject/selinux) ⭐ 1,636 | 🐛 9 | 🌐 C | 📅 2026-09-29 is a security enhancement to Linux which allows users and administrators more control over access control. Access can be constrained on such variables as which users and applications can access which resources. These resources may take the form of files. Standard Linux access controls, such as file modes (-rwxr-xr-x) are modifiable by the user and the applications which the user runs. Conversely, SELinux access controls are determined by a policy loaded on the system which may not be changed by careless users or misbehaving applications.
+[SELinux](https://github.com/SELinuxProject/selinux) ⭐ 1,635 | 🐛 9 | 🌐 C | 📅 2026-09-29 is a security enhancement to Linux which allows users and administrators more control over access control. Access can be constrained on such variables as which users and applications can access which resources. These resources may take the form of files. Standard Linux access controls, such as file modes (-rwxr-xr-x) are modifiable by the user and the applications which the user runs. Conversely, SELinux access controls are determined by a policy loaded on the system which may not be changed by careless users or misbehaving applications.
 
 [Control Groups(Cgroups)](https://www.redhat.com/sysadmin/cgroups-part-one) is a Linux kernel feature that allows you to allocate resources such as CPU time, system memory, network bandwidth, or any combination of these resources for user-defined groups of tasks (processes) running on a system.
 
@@ -1437,7 +1437,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Scapy](https://scapy.net/) is a python-based interactive packet manipulation program & library.
 
-[syzkaller](https://github.com/google/syzkaller) ⭐ 6,334 | 🐛 632 | 🌐 Go | 📅 2026-10-02 is an unsupervised, coverage-guided kernel fuzzer.
+[syzkaller](https://github.com/google/syzkaller) ⭐ 6,334 | 🐛 635 | 🌐 Go | 📅 2026-10-02 is an unsupervised, coverage-guided kernel fuzzer.
 
 [SchedViz](https://github.com/google/schedviz) ⚠️ Archived is a tool for gathering and visualizing kernel scheduling traces on Linux machines.
 
@@ -1447,7 +1447,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 [Metasploit Project](https://www.metasploit.com/) is a computer security project that provides information about security vulnerabilities and aids in penetration testing and IDS signature development.
 
-[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,587 | 🐛 115 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
+[Wfuzz](https://github.com/xmendez/wfuzz) ⭐ 6,589 | 🐛 115 | 🌐 Python | 📅 2026-01-21 was created to facilitate the task in web applications assessments and it is based on a simple concept: it replaces any reference to the FUZZ keyword by the value of a given payload.
 
 [Nmap](https://nmap.org/) is a security scanner used to discover hosts and services on a computer network, thus building a "map" of the network.
 
@@ -1533,7 +1533,7 @@ It is extended by a set of privacy-specific requirements, control objectives and
 
 # Differential Privacy
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <h1 align="center">
  <img src="https://user-images.githubusercontent.com/45159366/103486336-fd59c100-4db1-11eb-9780-a0b90bd5db1f.png">
@@ -1567,7 +1567,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [BoTorch](https://botorch.org) is a library for Bayesian Optimization built on PyTorch.
 
-[PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,103 | 🐛 1,358 | 🌐 Python | 📅 2026-09-29 is a geometric deep learning extension library for [PyTorch](https://pytorch.org/).
+[PyTorch Geometric (PyG)](https://github.com/rusty1s/pytorch_geometric) ⭐ 24,104 | 🐛 1,358 | 🌐 Python | 📅 2026-09-29 is a geometric deep learning extension library for [PyTorch](https://pytorch.org/).
 
 [Skorch](https://github.com/skorch-dev/skorch) ⭐ 6,179 | 🐛 66 | 🌐 Jupyter Notebook | 📅 2026-09-22 is a scikit-learn compatible neural network library that wraps PyTorch.
 
@@ -1637,7 +1637,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Cloud Native Development
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/90199045-6a7ba400-dd88-11ea-96d6-81b90d370946.png">
@@ -1773,13 +1773,13 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
-[Podman(the POD MANager)](https://github.com/containers/podman) ⭐ 32,985 | 🐛 1,017 | 🌐 Go | 📅 2026-10-02 is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
+[Podman(the POD MANager)](https://github.com/containers/podman) ⭐ 32,988 | 🐛 1,017 | 🌐 Go | 📅 2026-10-02 is a tool for managing [OCI](https://opencontainers.org/) containers and pods.
 
 [Rkt](https://coreos.com/rkt/) is a pod-native container engine for Linux. It is composable, secure, and built on standards.
 
 # DevOps Development
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/96352525-abd64b80-1078-11eb-95c8-e29d4c592bec.png">
@@ -1875,7 +1875,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Hyper-V](https://docs.microsoft.com/en-us/virtualization/hyper-v-on-windows/) creates virtual machines on Windows 10. Hyper-V can be enabled in many ways including using the Windows 10 control panel, PowerShell or using the Deployment Imaging Servicing and Management tool (DISM).
 
-[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 240 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
+[Cloud Hypervisor](https://github.com/cloud-hypervisor/cloud-hypervisor) ⭐ 6,278 | 🐛 243 | 🌐 Rust | 📅 2026-10-02 is an open source Virtual Machine Monitor (VMM) that runs on top of [KVM](https://www.kernel.org/doc/Documentation/virtual/kvm/api.txt). The project focuses on exclusively running modern, cloud workloads, on top of a limited set of hardware architectures and platforms. Cloud workloads refers to those that are usually run by customers inside a cloud provider. Cloud Hypervisor is implemented in [Rust](https://www.rust-lang.org/) and is based on the [rust-vmm](https://github.com/rust-vmm) crates.
 
 [VMware vSphere Hypervisor](https://www.vmware.com/products/vsphere-hypervisor.html) is a bare-metal hypervisor that virtualizes servers; allowing you to consolidate your applications while saving time and money managing your IT infrastructure.
 
@@ -1885,7 +1885,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Rancher](https://rancher.com/) is a complete software stack for teams adopting containers. It addresses the operational and security challenges of managing multiple Kubernetes clusters, while providing DevOps teams with integrated tools for running containerized workloads.
 
-[K3s](https://github.com/rancher/k3s) ⭐ 34,109 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
+[K3s](https://github.com/rancher/k3s) ⭐ 34,111 | 🐛 75 | 🌐 Go | 📅 2026-10-02 is a highly available, certified Kubernetes distribution designed for production workloads in unattended, resource-constrained, remote locations or inside IoT appliances.
 
 [Rook](https://rook.io/) is an open source cloud-native storage orchestrator for Kubernetes that turns distributed storage systems into self-managing, self-scaling, self-healing storage services. It automates the tasks of a storage administrator: deployment, bootstrapping, configuration, provisioning, scaling, upgrading, migration, disaster recovery, monitoring, and resource management.
 
@@ -1911,7 +1911,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Helm](https://helm.sh/) is the Kubernetes Package Manager.
 
-[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-02 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal
+[Kubespray](https://kubespray.io/) is a tool that combines Kubernetes and Ansible to easily install Kubernetes clusters that can be deployed on [AWS](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/aws.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, GCE, [Azure](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/azure.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [OpenStack](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/openstack.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [vSphere](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/vsphere.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03, [Packet](https://github.com/kubernetes-sigs/kubespray/blob/master/docs/packet.md) ⭐ 18,778 | 🐛 204 | 🌐 Jinja | 📅 2026-10-03 (bare metal), Oracle Cloud Infrastructure (Experimental), or Baremetal
 
 [Red Hat OpenShift](https://www.openshift.com/) is focused on security at every level of the container stack and throughout the application lifecycle. It includes long-term, enterprise support from one of the leading Kubernetes contributors and open source software companies.
 
@@ -1921,7 +1921,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Odo](https://odo.dev/) is a fast, iterative, and straightforward CLI tool for developers who write, build, and deploy applications on Kubernetes and OpenShift.
 
-[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 38 | 🌐 Shell | 📅 2026-10-02 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
+[Kata Operator](https://github.com/openshift/kata-operator) ⭐ 51 | 🐛 42 | 🌐 Shell | 📅 2026-10-03 is an operator to perform lifecycle management (install/upgrade/uninstall) of [Kata Runtime](https://katacontainers.io/) on Openshift as well as Kubernetes cluster.
 
 [Knative](https://knative.dev/) is a Kubernetes-based platform to build, deploy, and manage modern serverless workloads. Knative takes care of the operational overhead details of networking, autoscaling (even to zero), and revision tracking.
 
@@ -2029,7 +2029,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Flutter Development
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/93719686-0abbaa00-fb39-11ea-978d-91e55844dd7a.png">
@@ -2045,7 +2045,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [Flutter documentation](https://flutter.dev/docs)
 
-[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 179,248 | 🐛 13,277 | 🌐 Dart | 📅 2026-10-02
+[Style Guide for Flutter](https://github.com/flutter/flutter/wiki/Style-guide-for-Flutter-repo) ⭐ 179,266 | 🐛 13,272 | 🌐 Dart | 📅 2026-10-03
 
 [Creating your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 
@@ -2083,7 +2083,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 [FlutterBoost](https://github.com/alibaba/flutter_boost) ⭐ 7,196 | 🐛 420 | 🌐 Dart | 📅 2026-06-09 is a Flutter plugin which enables hybrid integration of Flutter for your existing native apps with minimum efforts.
 
-[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-09-08 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 179,248 | 🐛 13,277 | 🌐 Dart | 📅 2026-10-02 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,691 | 🐛 25 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
+[Go-flutter](https://github.com/go-flutter-desktop/go-flutter) ⭐ 5,931 | 🐛 65 | 🌐 Go | 📅 2026-09-08 is a package that brings Flutter to the desktop. project implements the [Flutter's Embedding API](https://github.com/flutter/flutter/wiki/Custom-Flutter-Engine-Embedders) ⭐ 179,266 | 🐛 13,272 | 🌐 Dart | 📅 2026-10-03 using a single code base that runs on Windows, macOS, and Linux. For rendering, [GLFW](https://github.com/go-gl/glfw) ⭐ 1,691 | 🐛 25 | 🌐 C | 📅 2026-08-23 fits the job because it provides the right abstractions over the OpenGL's Buffer/Mouse/Keyboard for each platform.
 
 [Appwrite](https://appwrite.io/) is a secure end-to-end backend server for Web, Mobile, and Flutter developers that is packaged as a set of Docker containers for easy deployment.
 
@@ -2091,7 +2091,7 @@ Above is a simple diagram of how Differential Privacy-Preserving Data Sharing an
 
 # Networking
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/82833053-d1687b80-9e71-11ea-8c6d-074100f2f54b.png">
@@ -2270,7 +2270,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Databases
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 <p align="center">
  <img src="https://user-images.githubusercontent.com/45159366/111918157-fcdfd680-8a40-11eb-96e9-7fecb43ea0eb.png">
@@ -2381,7 +2381,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # GNOME Extensions
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **Note: GNOME Extenions allow you customize your Desktop layout anyway you want.**
 
@@ -2429,7 +2429,7 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 # Advanced Topics
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 **Below are some of my favorite Ubuntu tutorials from [DigitalOcean](https://www.digitalocean.com/) that also work with Pop!\_OS.**
 
@@ -2481,14 +2481,14 @@ SSH: Secure shell is an encrypted protocol implemented in the application layer 
 
 ## Contribute
 
-* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop_OS-Guide/pulls) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04.
+* [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/Pop_OS-Guide/pulls).
 
 ## License
 
-[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents) ⭐ 333 | 🐛 2 | 🌐 Rust | 📅 2024-01-04
+[Back to the Top](https://github.com/mikeroyal/Pop_OS-Guide/blob/main/README.md#table-of-contents)
 
 Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
