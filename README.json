@@ -19,7 +19,7 @@
             "open_issues": 32,
             "owner": "pop-os",
             "repo": "popsicle",
-            "stars": 858,
+            "stars": 857,
             "topics": []
           },
           "first_seen": "2026-08-29T00:38:52.524Z"
@@ -48,7 +48,7 @@
                 "open_issues": 259,
                 "owner": "Fmstrat",
                 "repo": "winapps",
-                "stars": 10255,
+                "stars": 10254,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -66,10 +66,10 @@
                 "language": "Vala",
                 "license": null,
                 "last_commit": "2026-09-21T18:09:45Z",
-                "open_issues": 233,
+                "open_issues": 235,
                 "owner": "linuxmint",
                 "repo": "timeshift",
-                "stars": 4305,
+                "stars": 4307,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -120,7 +120,7 @@
                 "open_issues": 258,
                 "owner": "nativefier",
                 "repo": "nativefier",
-                "stars": 35236,
+                "stars": 35237,
                 "topics": [
                   "desktop-application",
                   "electron",
@@ -196,7 +196,7 @@
                 "open_issues": 18,
                 "owner": "dimtpap",
                 "repo": "obs-pipewire-audio-capture",
-                "stars": 828,
+                "stars": 830,
                 "topics": [
                   "audio",
                   "linux",
@@ -293,10 +293,10 @@
                     "language": "C++",
                     "license": "GPL-2.0",
                     "last_commit": "2026-10-11T04:13:26Z",
-                    "open_issues": 67,
+                    "open_issues": 69,
                     "owner": "DistroAV",
                     "repo": "DistroAV",
-                    "stars": 4567,
+                    "stars": 4570,
                     "topics": [
                       "audio",
                       "av",
@@ -328,7 +328,7 @@
                     "open_issues": 156,
                     "owner": "obsproject",
                     "repo": "obs-websocket",
-                    "stars": 4368,
+                    "stars": 4370,
                     "topics": [
                       "hacktoberfest",
                       "obs-studio",
@@ -354,7 +354,7 @@
                     "open_issues": 0,
                     "owner": "Vhonowslend",
                     "repo": "StreamFX-Public",
-                    "stars": 4193,
+                    "stars": 4192,
                     "topics": [
                       "addon",
                       "amd",
@@ -392,8 +392,8 @@
                     "id": 59211222,
                     "language": "C++",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-10-11T17:17:37Z",
-                    "open_issues": 98,
+                    "last_commit": "2026-10-12T17:57:38Z",
+                    "open_issues": 97,
                     "owner": "WarmUpTill",
                     "repo": "SceneSwitcher",
                     "stars": 1573,
@@ -419,7 +419,7 @@
                     "open_issues": 118,
                     "owner": "exeldro",
                     "repo": "obs-move-transition",
-                    "stars": 923,
+                    "stars": 924,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -440,7 +440,7 @@
                     "open_issues": 51,
                     "owner": "obsproject",
                     "repo": "obs-browser",
-                    "stars": 910,
+                    "stars": 911,
                     "topics": [
                       "c",
                       "c-plus-plus",
@@ -466,7 +466,7 @@
                     "open_issues": 130,
                     "owner": "exeldro",
                     "repo": "obs-source-record",
-                    "stars": 662,
+                    "stars": 663,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -483,7 +483,7 @@
                     "id": 439266772,
                     "language": "Go",
                     "license": "GPL-2.0",
-                    "last_commit": "2026-09-21T18:08:42Z",
+                    "last_commit": "2026-10-12T17:30:45Z",
                     "open_issues": 1,
                     "owner": "fzwoch",
                     "repo": "obs-teleport",
@@ -514,7 +514,7 @@
                     "open_issues": 24,
                     "owner": "iamscottxu",
                     "repo": "obs-rtspserver",
-                    "stars": 634,
+                    "stars": 635,
                     "topics": [
                       "obs",
                       "obs-rtspserver",
@@ -541,7 +541,7 @@
                     "open_issues": 12,
                     "owner": "univrsal",
                     "repo": "spectralizer",
-                    "stars": 620,
+                    "stars": 619,
                     "topics": [
                       "audio",
                       "obs-studio",
@@ -642,7 +642,7 @@
                     "open_issues": 13,
                     "owner": "exeldro",
                     "repo": "obs-virtual-cam-filter",
-                    "stars": 138,
+                    "stars": 137,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -686,7 +686,7 @@
                     "open_issues": 6,
                     "owner": "exeldro",
                     "repo": "obs-transition-table",
-                    "stars": 112,
+                    "stars": 113,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -707,7 +707,7 @@
                     "open_issues": 5,
                     "owner": "norihiro",
                     "repo": "obs-vnc",
-                    "stars": 105,
+                    "stars": 106,
                     "topics": [
                       "obs-studio",
                       "obs-studio-plugin"
@@ -752,7 +752,7 @@
                     "open_issues": 5,
                     "owner": "exeldro",
                     "repo": "obs-source-copy",
-                    "stars": 103,
+                    "stars": 102,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -919,27 +919,6 @@
                 },
                 {
                   "node_type": "item",
-                  "title": "Recursion Effect",
-                  "description": "plugin; recursion effect filter.",
-                  "children": [],
-                  "repo_info": {
-                    "archived": false,
-                    "description": "Plugin for OBS Studio to add recursion effect to a source using a filter",
-                    "homepage": null,
-                    "id": 271467115,
-                    "language": "CMake",
-                    "license": "GPL-2.0",
-                    "last_commit": "2024-08-17T08:09:26Z",
-                    "open_issues": 4,
-                    "owner": "exeldro",
-                    "repo": "obs-recursion-effect",
-                    "stars": 52,
-                    "topics": []
-                  },
-                  "first_seen": "2026-08-29T00:38:52.524Z"
-                },
-                {
-                  "node_type": "item",
                   "title": "Text Pango",
                   "description": "plugin; Provides a text source rendered using Pango with multi-language support, emoji support, vertical rendering and RTL support.",
                   "children": [],
@@ -955,6 +934,27 @@
                     "owner": "kkartaltepe",
                     "repo": "obs-text-pango",
                     "stars": 52,
+                    "topics": []
+                  },
+                  "first_seen": "2026-08-29T00:38:52.524Z"
+                },
+                {
+                  "node_type": "item",
+                  "title": "Recursion Effect",
+                  "description": "plugin; recursion effect filter.",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "description": "Plugin for OBS Studio to add recursion effect to a source using a filter",
+                    "homepage": null,
+                    "id": 271467115,
+                    "language": "CMake",
+                    "license": "GPL-2.0",
+                    "last_commit": "2024-08-17T08:09:26Z",
+                    "open_issues": 4,
+                    "owner": "exeldro",
+                    "repo": "obs-recursion-effect",
+                    "stars": 51,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -996,7 +996,7 @@
                     "open_issues": 8,
                     "owner": "exeldro",
                     "repo": "obs-dynamic-delay",
-                    "stars": 44,
+                    "stars": 43,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -1133,11 +1133,11 @@
                 "id": 125098880,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T12:44:40Z",
-                "open_issues": 5224,
+                "last_commit": "2026-10-12T20:54:23Z",
+                "open_issues": 5225,
                 "owner": "ValveSoftware",
                 "repo": "Proton",
-                "stars": 33022,
+                "stars": 33023,
                 "topics": [
                   "proton"
                 ]
@@ -1157,10 +1157,10 @@
                 "language": "Python",
                 "license": "GPL-3.0",
                 "last_commit": "2026-10-11T19:04:28Z",
-                "open_issues": 71,
+                "open_issues": 73,
                 "owner": "DavidoTek",
                 "repo": "ProtonUp-Qt",
-                "stars": 2046,
+                "stars": 2051,
                 "topics": [
                   "automation",
                   "linux",
@@ -1199,7 +1199,7 @@
                 "open_issues": 271,
                 "owner": "tkashkin",
                 "repo": "GameHub",
-                "stars": 2847,
+                "stars": 2846,
                 "topics": [
                   "elementary",
                   "elementary-apps",
@@ -1243,7 +1243,7 @@
                 "open_issues": 155,
                 "owner": "bsnes-emu",
                 "repo": "bsnes",
-                "stars": 2002,
+                "stars": 2004,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1265,11 +1265,11 @@
                 "id": 208509888,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T13:01:35Z",
-                "open_issues": 213,
+                "last_commit": "2026-10-12T08:37:13Z",
+                "open_issues": 214,
                 "owner": "dosbox-staging",
                 "repo": "dosbox-staging",
-                "stars": 1810,
+                "stars": 1811,
                 "topics": [
                   "arm",
                   "c",
@@ -1302,11 +1302,11 @@
                 "id": 131286494,
                 "language": "C++",
                 "license": "GPL-2.0",
-                "last_commit": "2026-10-10T01:44:52Z",
+                "last_commit": "2026-10-12T07:57:20Z",
                 "open_issues": 317,
                 "owner": "flyinghead",
                 "repo": "flycast",
-                "stars": 2585,
+                "stars": 2590,
                 "topics": [
                   "emulation",
                   "emulator",
@@ -1332,7 +1332,7 @@
                 "open_issues": 322,
                 "owner": "xenia-project",
                 "repo": "xenia",
-                "stars": 9707,
+                "stars": 9713,
                 "topics": [
                   "c-plus-plus",
                   "cpp",
@@ -1369,10 +1369,10 @@
                     "language": "C",
                     "license": "NOASSERTION",
                     "last_commit": "2026-10-07T16:29:54Z",
-                    "open_issues": 579,
+                    "open_issues": 578,
                     "owner": "NVIDIA",
                     "repo": "open-gpu-kernel-modules",
-                    "stars": 17451,
+                    "stars": 17455,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -1449,7 +1449,7 @@
                     "open_issues": 226,
                     "owner": "libratbag",
                     "repo": "piper",
-                    "stars": 6025,
+                    "stars": 6027,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -1466,11 +1466,11 @@
                     "id": 236648333,
                     "language": "C",
                     "license": "MIT",
-                    "last_commit": "2026-10-09T18:05:06Z",
-                    "open_issues": 346,
+                    "last_commit": "2026-10-12T18:56:52Z",
+                    "open_issues": 349,
                     "owner": "flightlessmango",
                     "repo": "MangoHud",
-                    "stars": 9116,
+                    "stars": 9119,
                     "topics": [
                       "benchmarking",
                       "hud",
@@ -1494,11 +1494,11 @@
                     "id": 485818631,
                     "language": "Pascal",
                     "license": "GPL-3.0",
-                    "last_commit": "2026-10-11T14:40:31Z",
-                    "open_issues": 79,
+                    "last_commit": "2026-10-12T03:17:37Z",
+                    "open_issues": 78,
                     "owner": "benjamimgois",
                     "repo": "goverlay",
-                    "stars": 1534,
+                    "stars": 1536,
                     "topics": []
                   },
                   "first_seen": "2026-08-29T00:38:52.524Z"
@@ -1533,7 +1533,7 @@
                     "open_issues": 191,
                     "owner": "Winetricks",
                     "repo": "winetricks",
-                    "stars": 3548,
+                    "stars": 3549,
                     "topics": [
                       "gaming",
                       "shell",
@@ -1579,7 +1579,7 @@
                 "open_issues": 485,
                 "owner": "ValveSoftware",
                 "repo": "SteamVR-for-Linux",
-                "stars": 1122,
+                "stars": 1121,
                 "topics": [
                   "linux",
                   "steamvr",
@@ -1604,7 +1604,7 @@
                 "open_issues": 1046,
                 "owner": "ValveSoftware",
                 "repo": "openvr",
-                "stars": 6679,
+                "stars": 6680,
                 "topics": [
                   "hardware",
                   "openvr-sdk",
@@ -1629,7 +1629,7 @@
                 "language": "C",
                 "license": "MIT",
                 "last_commit": "2026-10-09T15:05:48Z",
-                "open_issues": 63,
+                "open_issues": 64,
                 "owner": "collabora",
                 "repo": "libsurvive",
                 "stars": 940,
@@ -1667,7 +1667,7 @@
                 "open_issues": 73,
                 "owner": "SimulaVR",
                 "repo": "Simula",
-                "stars": 3208,
+                "stars": 3207,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -1696,10 +1696,10 @@
             "language": "Python",
             "license": "GPL-3.0",
             "last_commit": "2026-09-26T16:51:54Z",
-            "open_issues": 964,
+            "open_issues": 963,
             "owner": "waydroid",
             "repo": "waydroid",
-            "stars": 12363,
+            "stars": 12366,
             "topics": [
               "android",
               "linux"
@@ -1720,10 +1720,10 @@
             "language": "C",
             "license": "Apache-2.0",
             "last_commit": "2026-10-08T06:44:51Z",
-            "open_issues": 2924,
+            "open_issues": 2928,
             "owner": "Genymobile",
             "repo": "scrcpy",
-            "stars": 151857,
+            "stars": 151963,
             "topics": [
               "android",
               "c",
@@ -1760,7 +1760,7 @@
             "open_issues": 145,
             "owner": "robbert-vdh",
             "repo": "yabridge",
-            "stars": 4157,
+            "stars": 4159,
             "topics": [
               "clap",
               "linux",
@@ -1789,8 +1789,8 @@
             "id": 286818960,
             "language": "Shell",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-11T11:54:21Z",
-            "open_issues": 49,
+            "last_commit": "2026-10-12T14:15:30Z",
+            "open_issues": 54,
             "owner": "openshift",
             "repo": "sandboxed-containers-operator",
             "stars": 50,
@@ -1810,8 +1810,8 @@
             "id": 148682741,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T01:17:54Z",
-            "open_issues": 9,
+            "last_commit": "2026-10-12T21:19:40Z",
+            "open_issues": 8,
             "owner": "openshift",
             "repo": "hive",
             "stars": 275,
@@ -1860,11 +1860,11 @@
             "id": 135516270,
             "language": "Go",
             "license": "Apache-2.0",
-            "last_commit": "2026-10-10T18:26:06Z",
-            "open_issues": 91,
+            "last_commit": "2026-10-12T22:08:25Z",
+            "open_issues": 85,
             "owner": "k3s-io",
             "repo": "k3s",
-            "stars": 34172,
+            "stars": 34177,
             "topics": [
               "k8s",
               "kubernetes"
@@ -1938,7 +1938,7 @@
                 "open_issues": 1175,
                 "owner": "BVLC",
                 "repo": "caffe",
-                "stars": 34549,
+                "stars": 34550,
                 "topics": [
                   "deep-learning",
                   "machine-learning",
@@ -2061,11 +2061,11 @@
                 "id": 3659275,
                 "language": "Python",
                 "license": "BSD-2-Clause",
-                "last_commit": "2026-10-11T00:21:26Z",
-                "open_issues": 1826,
+                "last_commit": "2026-10-12T19:47:05Z",
+                "open_issues": 1827,
                 "owner": "numba",
                 "repo": "numba",
-                "stars": 11174,
+                "stars": 11175,
                 "topics": [
                   "compiler",
                   "cuda",
@@ -2090,11 +2090,11 @@
                 "id": 152616802,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T07:44:17Z",
-                "open_issues": 808,
+                "last_commit": "2026-10-12T23:10:33Z",
+                "open_issues": 809,
                 "owner": "NVIDIA",
                 "repo": "cuml",
-                "stars": 5303,
+                "stars": 5304,
                 "topics": [
                   "cuda",
                   "gpu",
@@ -2134,7 +2134,7 @@
                 "open_issues": 54,
                 "owner": "roboticslibrary",
                 "repo": "rl",
-                "stars": 1206,
+                "stars": 1207,
                 "topics": [
                   "c-plus-plus",
                   "collision-detection",
@@ -2188,7 +2188,7 @@
                 "open_issues": 781,
                 "owner": "microsoft",
                 "repo": "AirSim",
-                "stars": 18547,
+                "stars": 18549,
                 "topics": [
                   "ai",
                   "airsim",
@@ -2223,11 +2223,11 @@
                 "id": 95114723,
                 "language": "C++",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T22:14:21Z",
-                "open_issues": 459,
+                "last_commit": "2026-10-12T22:14:11Z",
+                "open_issues": 462,
                 "owner": "nasa",
                 "repo": "fprime",
-                "stars": 11824,
+                "stars": 11832,
                 "topics": [
                   "components",
                   "cpp",
@@ -2262,7 +2262,7 @@
                 "open_issues": 17,
                 "owner": "nasa-jpl",
                 "repo": "open-source-rover",
-                "stars": 9698,
+                "stars": 9706,
                 "topics": [
                   "diy",
                   "hardware",
@@ -2287,8 +2287,8 @@
                 "id": 28635894,
                 "language": "C++",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-11T19:05:50Z",
-                "open_issues": 39,
+                "last_commit": "2026-10-12T18:36:15Z",
+                "open_issues": 41,
                 "owner": "alicevision",
                 "repo": "AliceVision",
                 "stars": 3512,
@@ -2322,11 +2322,11 @@
                 "id": 108102826,
                 "language": "C++",
                 "license": "MIT",
-                "last_commit": "2026-10-10T23:54:24Z",
+                "last_commit": "2026-10-12T15:50:14Z",
                 "open_issues": 1200,
                 "owner": "carla-simulator",
                 "repo": "carla",
-                "stars": 14476,
+                "stars": 14482,
                 "topics": [
                   "ai",
                   "artificial-intelligence",
@@ -2365,7 +2365,7 @@
                 "open_issues": 186,
                 "owner": "carla-simulator",
                 "repo": "ros-bridge",
-                "stars": 646,
+                "stars": 645,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -2540,7 +2540,7 @@
                 "open_issues": 32,
                 "owner": "rfjakob",
                 "repo": "earlyoom",
-                "stars": 4331,
+                "stars": 4334,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -2561,7 +2561,7 @@
                 "open_issues": 43,
                 "owner": "cilium",
                 "repo": "hubble",
-                "stars": 4361,
+                "stars": 4364,
                 "topics": [
                   "cilium",
                   "ebpf",
@@ -2587,8 +2587,8 @@
                 "id": 301462571,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-05T01:04:09Z",
-                "open_issues": 3,
+                "last_commit": "2026-10-12T13:27:29Z",
+                "open_issues": 5,
                 "owner": "cilium",
                 "repo": "certgen",
                 "stars": 30,
@@ -2608,8 +2608,8 @@
                 "id": 44087204,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-09T16:27:31Z",
-                "open_issues": 633,
+                "last_commit": "2026-10-12T12:48:42Z",
+                "open_issues": 638,
                 "owner": "google",
                 "repo": "syzkaller",
                 "stars": 6346,
@@ -2669,7 +2669,7 @@
                 "open_issues": 116,
                 "owner": "xmendez",
                 "repo": "wfuzz",
-                "stars": 6593,
+                "stars": 6594,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -2772,7 +2772,7 @@
                 "language": "Python",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T15:23:49Z",
-                "open_issues": 9,
+                "open_issues": 10,
                 "owner": "OpenMined",
                 "repo": "PySyft",
                 "stars": 10041,
@@ -2802,7 +2802,7 @@
                 "id": 162747292,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-26T19:07:16Z",
+                "last_commit": "2026-10-12T12:39:10Z",
                 "open_issues": 136,
                 "owner": "tensorflow",
                 "repo": "privacy",
@@ -2848,7 +2848,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T21:55:47Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "google",
                 "repo": "differential-privacy",
                 "stars": 3368,
@@ -2903,7 +2903,7 @@
                 "open_issues": 1373,
                 "owner": "pyg-team",
                 "repo": "pytorch_geometric",
-                "stars": 24113,
+                "stars": 24115,
                 "topics": [
                   "deep-learning",
                   "geometric-deep-learning",
@@ -2927,7 +2927,7 @@
                 "language": "Jupyter Notebook",
                 "license": "BSD-3-Clause",
                 "last_commit": "2026-09-22T13:47:11Z",
-                "open_issues": 70,
+                "open_issues": 73,
                 "owner": "skorch-dev",
                 "repo": "skorch",
                 "stars": 6181,
@@ -2952,8 +2952,8 @@
                 "id": 192547145,
                 "language": "Python",
                 "license": "MIT",
-                "last_commit": "2026-09-23T13:33:23Z",
-                "open_issues": 13,
+                "last_commit": "2026-10-12T14:52:41Z",
+                "open_issues": 12,
                 "owner": "IBM",
                 "repo": "differential-privacy-library",
                 "stars": 920,
@@ -3012,7 +3012,7 @@
                 "language": "Go",
                 "license": "Apache-2.0",
                 "last_commit": "2026-10-09T21:55:47Z",
-                "open_issues": 88,
+                "open_issues": 89,
                 "owner": "google",
                 "repo": "differential-privacy",
                 "stars": 3368,
@@ -3036,7 +3036,7 @@
                 "id": 162747292,
                 "language": "Python",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-26T19:07:16Z",
+                "last_commit": "2026-10-12T12:39:10Z",
                 "open_issues": 136,
                 "owner": "tensorflow",
                 "repo": "privacy",
@@ -3073,11 +3073,11 @@
                 "id": 109145553,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T17:51:23Z",
-                "open_issues": 1018,
+                "last_commit": "2026-10-12T21:15:50Z",
+                "open_issues": 1011,
                 "owner": "podman-container-tools",
                 "repo": "podman",
-                "stars": 33026,
+                "stars": 33030,
                 "topics": [
                   "containers",
                   "docker",
@@ -3142,11 +3142,11 @@
                 "id": 184341774,
                 "language": "Rust",
                 "license": null,
-                "last_commit": "2026-10-10T14:23:46Z",
-                "open_issues": 243,
+                "last_commit": "2026-10-12T22:36:29Z",
+                "open_issues": 242,
                 "owner": "cloud-hypervisor",
                 "repo": "cloud-hypervisor",
-                "stars": 6318,
+                "stars": 6322,
                 "topics": [
                   "cloud-workloads",
                   "kvm",
@@ -3168,11 +3168,11 @@
                 "id": 135516270,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T18:26:06Z",
-                "open_issues": 91,
+                "last_commit": "2026-10-12T22:08:25Z",
+                "open_issues": 85,
                 "owner": "k3s-io",
                 "repo": "k3s",
-                "stars": 34172,
+                "stars": 34177,
                 "topics": [
                   "k8s",
                   "kubernetes"
@@ -3192,8 +3192,8 @@
                 "id": 148682741,
                 "language": "Go",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-10T01:17:54Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-12T21:19:40Z",
+                "open_issues": 8,
                 "owner": "openshift",
                 "repo": "hive",
                 "stars": 275,
@@ -3213,8 +3213,8 @@
                 "id": 286818960,
                 "language": "Shell",
                 "license": "Apache-2.0",
-                "last_commit": "2026-10-11T11:54:21Z",
-                "open_issues": 49,
+                "last_commit": "2026-10-12T14:15:30Z",
+                "open_issues": 54,
                 "owner": "openshift",
                 "repo": "sandboxed-containers-operator",
                 "stars": 50,
@@ -3380,7 +3380,7 @@
                 "open_issues": 34,
                 "owner": "Netflix",
                 "repo": "chaosmonkey",
-                "stars": 17169,
+                "stars": 17173,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -3401,7 +3401,7 @@
                 "open_issues": 133,
                 "owner": "restify",
                 "repo": "node-restify",
-                "stars": 10686,
+                "stars": 10688,
                 "topics": [
                   "rest-api",
                   "restify",
@@ -3435,11 +3435,11 @@
                 "id": 31792824,
                 "language": "Dart",
                 "license": "BSD-3-Clause",
-                "last_commit": "2026-10-11T17:34:14Z",
-                "open_issues": 13338,
+                "last_commit": "2026-10-12T23:07:56Z",
+                "open_issues": 13329,
                 "owner": "flutter",
                 "repo": "flutter",
-                "stars": 179776,
+                "stars": 179954,
                 "topics": [
                   "android",
                   "app-framework",
@@ -3487,7 +3487,7 @@
                 "open_issues": 420,
                 "owner": "alibaba",
                 "repo": "flutter_boost",
-                "stars": 7198,
+                "stars": 7199,
                 "topics": [
                   "android",
                   "dart",
@@ -3585,10 +3585,10 @@
                 "language": "Python",
                 "license": "GPL-2.0",
                 "last_commit": "2026-09-04T16:57:01Z",
-                "open_issues": 167,
+                "open_issues": 168,
                 "owner": "virt-manager",
                 "repo": "virt-manager",
-                "stars": 3272,
+                "stars": 3273,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -3605,11 +3605,11 @@
                 "id": 51007072,
                 "language": "C",
                 "license": "NOASSERTION",
-                "last_commit": "2026-10-09T14:46:49Z",
+                "last_commit": "2026-10-12T17:21:49Z",
                 "open_issues": 4,
                 "owner": "xen-project",
                 "repo": "xen",
-                "stars": 855,
+                "stars": 856,
                 "topics": []
               },
               "first_seen": "2026-08-29T00:38:52.524Z"
@@ -3695,7 +3695,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-11T20:31:45.455Z",
+    "last_updated": "2026-10-12T23:10:47.134Z",
     "original_repository_info": {
       "archived": false,
       "description": "Pop!_OS Guide. Pop!_OS is an Operating System developed by System76.",
@@ -3707,7 +3707,7 @@
       "open_issues": 2,
       "owner": "mikeroyal",
       "repo": "Pop_OS-Guide",
-      "stars": 332,
+      "stars": 333,
       "topics": [
         "amdgpu",
         "awesome",
